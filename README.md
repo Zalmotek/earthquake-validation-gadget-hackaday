@@ -1,4 +1,8 @@
+
+
 # Earthquake-validation-gadget
+This was a project submitted for Hackaday Prize 2017 https://hackaday.io/project/21369-earthquake-validation-gadget
+
 It's a gadget that detects both the vibration of an earthquake and the tweets next to your location that contain #earthquake references.
 
 ## Installation and running
